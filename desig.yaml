@@ -1,0 +1,14 @@
+name: Mörkt tema
+primary_color: '#4A90E2'
+secondary_color: '#7ED321'
+background_color: '#3E3EDE'
+text_color: '#FFFFFF'
+button_color: '#232361'
+button_hover_color: '#4A4A60'
+accent_color: '#64C8FF'
+error_color: '#8B2424'
+success_color: '#51CF66'
+font_size: 14.0
+border_radius: 8.0
+spacing: 10.0
+panel_stroke_width: 2.0
